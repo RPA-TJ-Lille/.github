@@ -15,6 +15,20 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 
 ## 🚀 Projets disponibles
 
+### 💻 ACSS
+
+![Langage](https://img.shields.io/badge/langage-python-blue)
+![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
+![Plateforme]
+![Version](https://img.shields.io/badge/version-v1.1.0-blueviolet)
+![Créateur]
+
+**Objectif :** Automatiser le traitement des affaires classées sans suites sur CASSIOPEE.
+
+- 🔗 [Accéder au dépôt GitHub]())
+
+---
+
 ### 🤖 BARÔBAJ
 
 ![Langage](https://img.shields.io/badge/langage-python-blue)
