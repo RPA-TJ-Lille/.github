@@ -25,6 +25,8 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 
 **Objectif :** Automatiser le remplissage des formulaires sur le portail SIAJ.
 
+***__Ancienne Démarche :__***
+
 - 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/BAROBAJ)
 - 🔄 [Dernière version : v1.1.0](https://github.com/RPA-TJ-Lille/BAROBAJ/releases/tag/v1.1.0)
 - 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/BAROBAJ/releases/download/v1.1.0/RPA-BAROBAJ-v1.1.0.zip)
