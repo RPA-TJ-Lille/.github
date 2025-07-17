@@ -19,9 +19,9 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 
 ![Langage](https://img.shields.io/badge/langage-python-blue)
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
-![Plateforme]
+![Plateforme](https://img.shields.io/badge/plateforme-CASSIOPEE-lightgrey)
 ![Version](https://img.shields.io/badge/version-v1.1.0-blueviolet)
-![Créateur]
+![Créateur](https://img.shields.io/badge/créateur-Degalax-blue)
 
 **Objectif :** Automatiser le traitement des affaires classées sans suites sur CASSIOPEE.
 
