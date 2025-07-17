@@ -47,6 +47,22 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 
 ---
 
+### 📧 DECISIONBAJ
+
+![Langage](https://img.shields.io/badge/langage-python-blue)
+![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
+![Plateforme](https://img.shields.io/badge/plateforme-OUTLOOK-lightgrey)
+![Version](https://img.shields.io/badge/version-v1.1.0-blueviolet)
+![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
+
+**Objectif :** Automatiser le traitement et l’envoi des décisions d’aide juridictionnelle aux avocats via Outlook.
+
+- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/DECISIONBAJ)
+- 🔄 [Dernière version : v1.1.0](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/tag/v1.1.0)
+- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/download/v1.1.0/RPA-DECISIONBAJ-v1.1.0.zip)
+
+---
+
 ## 💡 Contact et support
 
 Pour toute question ou demande d'assistance technique, veuillez contacter le référent informatique du **Tribunal Judiciaire de Lille**.
