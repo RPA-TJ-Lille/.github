@@ -25,7 +25,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 
 **Objectif :** Automatiser le traitement des affaires classées sans suites sur CASSIOPEE.
 
-- 🔗 [Accéder au dépôt GitHub]())
+- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/ACSS)
 
 ---
 
