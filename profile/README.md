@@ -20,16 +20,22 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Langage](https://img.shields.io/badge/langage-python-blue)
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-SIAJ-lightgrey)
-![Version](https://img.shields.io/badge/version-v1.1.0-blueviolet)
+![Version](https://img.shields.io/badge/version-v1.1.1-blueviolet)
 ![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
 
 **Objectif :** Automatiser le remplissage des formulaires sur le portail SIAJ.
 
+- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/BAROBAJ)
+
 ***__Ancienne Démarche :__***
 
-- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/BAROBAJ)
 - 🔄 [Dernière version : v1.1.0](https://github.com/RPA-TJ-Lille/BAROBAJ/releases/tag/v1.1.0)
 - 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/BAROBAJ/releases/download/v1.1.0/RPA-BAROBAJ-v1.1.0.zip)
+
+***__Nouvelle Démarche :__***
+
+- 🔄 [Dernière version : v1.1.1](https://github.com/RPA-TJ-Lille/BAROBAJ/releases/tag/v1.1.1)
+- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/BAROBAJ/releases/download/v1.1.1/RPA-BAROBAJ-v1.1.1.zip)
 
 ---
 
