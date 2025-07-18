@@ -2,7 +2,7 @@ name: Mettre à jour les statistiques RPA
 
 on:
   schedule:
-    - cron: '0 7 * * 1'  
+    - cron: '0 7 * * 1' 
   workflow_dispatch:     
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Cloner le dépôt
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
 
     - name: Installer cloc
       run: sudo apt-get install -y cloc
@@ -21,16 +21,20 @@ jobs:
       with:
         python-version: 3.11
 
-    - name: Installer dépendances Python
+    - name: Installer les dépendances Python
       run: pip install requests
 
     - name: Exécuter le script de génération
-      run: python scripts/generateStats.py
+      run: python scripts/generate_stats.py
+
+    - name: Configurer les infos Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
     - name: Commit & push si changements
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add profile/README.md 
+        git add profile/README.md
         git commit -m "🔄 Mise à jour automatique des stats" || echo "Aucun changement"
         git push
