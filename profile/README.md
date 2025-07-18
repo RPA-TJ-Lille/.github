@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td><img src="./TJ_Lille_Logo.png" alt="Logo TJ Lille" width="100"/></td>
+<td><img src="./assets/TJ_Lille_Logo.png" alt="Logo TJ Lille" width="100"/></td>
 <td>
 
 # Tribunal Judiciaire de Lille — Solutions d’Automatisation RPA
@@ -82,6 +82,12 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 - 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/DECISIONBAJ)
 - 🔄 [Dernière version : v1.1.0](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/tag/v1.1.0)
 - 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/download/v1.1.0/RPA-DECISIONBAJ-v1.1.0.zip)
+
+---
+
+<!-- STATS_START -->
+(Statistiques en cours de génération...)
+<!-- STATS_END -->
 
 ---
 
