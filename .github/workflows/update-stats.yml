@@ -25,7 +25,7 @@ jobs:
       run: pip install requests
 
     - name: Exécuter le script de génération
-      run: python scripts/generate_stats.py
+      run: python scripts/generateStats.py
 
     - name: Configurer les infos Git
       run: |
