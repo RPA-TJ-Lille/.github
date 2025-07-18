@@ -86,7 +86,13 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ---
 
 <!-- STATS_START -->
-(Statistiques en cours de génération...)
+<table>
+<tr><td>🔢 Nombre total de projets</td><td><strong>1</strong></td></tr>
+<tr><td>💻 Lignes de code cumulées</td><td><strong>0</strong></td></tr>
+<tr><td>📂 Dépôts GitHub publics</td><td><strong>1</strong></td></tr>
+<tr><td>👨‍💻 Contributeurs uniques</td><td><strong>2</strong></td></tr>
+<tr><td>📥 Téléchargements totaux</td><td><strong>0</strong></td></tr>
+</table>
 <!-- STATS_END -->
 
 ---
