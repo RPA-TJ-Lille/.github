@@ -85,6 +85,30 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 - 🔄 [Dernière version : v1.1.0](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/tag/v1.1.0)
 - 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/download/v1.1.0/RPA-DECISIONBAJ-v1.1.0.zip)
 
+
+## 📮 Système de remontée de bugs et suggestions
+
+Nous avons mis en place un système de **reporting intégré** pour centraliser toutes vos remontées liées aux applications RPA.
+
+Vous pouvez désormais :
+
+- 🐞 **Signaler un bug** rencontré dans une application
+- ✨ **Proposer une amélioration ou fonctionnalité**
+- ❓ **Poser une question ou demander une assistance**
+
+👉 Accéder au formulaire :  
+[📥 Ouvrir le formulaire de remontée](https://github.com/RPA-TJ-Lille/REPORTS/issues/new/choose)
+
+Ce lien vous amène à une interface claire et guidée, avec la possibilité de :
+
+- Choisir l'application concernée (Barobaj, ImprimFip, Decisionbaj…)
+- Fournir des captures d’écran
+- Suivre l'évolution de votre demande
+
+> ⚠️ Un compte GitHub est nécessaire pour soumettre un formulaire (gratuit et rapide à créer).
+
+📩 Vous recevrez une réponse ou un suivi dans les meilleurs délais de la part de l’équipe RPA.
+
 ---
 
 <!-- STATS_START -->
