@@ -85,6 +85,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 - 🔄 [Dernière version : v1.1.0](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/tag/v1.1.0)
 - 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/download/v1.1.0/RPA-DECISIONBAJ-v1.1.0.zip)
 
+---
 
 ## 📮 Système de remontée de bugs et suggestions
 
