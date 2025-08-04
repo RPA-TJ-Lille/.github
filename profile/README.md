@@ -114,9 +114,9 @@ Ce lien vous amène à une interface claire et guidée, avec la possibilité de 
 
 <!-- STATS_START -->
 <table>
-<tr><td>🔢 Nombre total de projets</td><td><strong>1</strong></td></tr>
+<tr><td>🔢 Nombre total de projets</td><td><strong>2</strong></td></tr>
 <tr><td>💻 Lignes de code cumulées</td><td><strong>0</strong></td></tr>
-<tr><td>📂 Dépôts GitHub publics</td><td><strong>1</strong></td></tr>
+<tr><td>📂 Dépôts GitHub publics</td><td><strong>2</strong></td></tr>
 <tr><td>👨‍💻 Contributeurs uniques</td><td><strong>3</strong></td></tr>
 <tr><td>📥 Téléchargements totaux</td><td><strong>0</strong></td></tr>
 </table>
