@@ -87,6 +87,22 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 
 ---
 
+### 📧 RediCourrier
+
+![Langage](https://img.shields.io/badge/langage-python-blue)
+![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
+![Plateforme](https://img.shields.io/badge/plateforme-OUTLOOK-lightgrey)
+![Version](https://img.shields.io/badge/version-v1.1.1-blueviolet)
+![Créateur](https://img.shields.io/badge/créateur-GabinHessc-blue)
+
+**Objectif :** Automatiser les redirections des mails des TJ et Accueils via Outlook.
+
+- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/DECISIONBAJ)
+- 🔄 [Dernière version : v1.1.1](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/tag/v1.1.1)
+- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/download/v1.1.1/RPA-DECISIONBAJ-v1.1.1.zip)
+
+---
+
 ## 📮 Système de remontée de bugs et suggestions
 
 Nous avons mis en place un système de **reporting intégré** pour centraliser toutes vos remontées liées aux applications RPA.
