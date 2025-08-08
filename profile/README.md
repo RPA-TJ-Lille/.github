@@ -98,8 +98,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 **Objectif :** Automatiser les redirections des mails des TJ et Accueils via Outlook.
 
 - 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/DECISIONBAJ)
-- 🔄 [Dernière version : v1.1.1](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/tag/v1.1.1)
-- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/DECISIONBAJ/releases/download/v1.1.1/RPA-DECISIONBAJ-v1.1.1.zip)
+
 
 ---
 
