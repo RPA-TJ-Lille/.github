@@ -92,12 +92,12 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Langage](https://img.shields.io/badge/langage-python-blue)
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-OUTLOOK-lightgrey)
-![Version](https://img.shields.io/badge/version-v1.1.1-blueviolet)
+![Version](https://img.shields.io/badge/version-v1.0.0-blueviolet)
 ![Créateur](https://img.shields.io/badge/créateur-GabinHessc-blue)
 
 **Objectif :** Automatiser les redirections des mails des TJ et Accueils via Outlook.
 
-- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/DECISIONBAJ)
+- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/RediCourrier)
 
 
 ---
