@@ -39,7 +39,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blueviolet)
 ![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
 
-**Objectif :** Automatiser le traitement des affaires classées sans suites sur CASSIOPEE.
+**Objectif :** Automatiser le suivi des dossiers déposés sur SIAJ.
 
 - 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/STATOBAJ)
 - 🔄 [Dernière version : v1.0.0](https://github.com/RPA-TJ-Lille/STATOBAJ/releases/tag/v1.0.0)
