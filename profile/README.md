@@ -34,16 +34,16 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ### 📊 STATÔBAJ
 
 ![Langage](https://img.shields.io/badge/langage-python-blue)
-![Statut](https://img.shields.io/badge/statut-bêta-brightgreen)
+![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-SIAJ-lightgrey)
-![Version](https://img.shields.io/badge/version-v1.0.0--beta.1-blueviolet)
+![Version](https://img.shields.io/badge/version-v1.0.0-blueviolet)
 ![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
 
 **Objectif :** Automatiser le suivi des dossiers déposés sur SIAJ.
 
 - 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/STATOBAJ)
-- 🔄 [Dernière version : v1.0.0-beta.1](https://github.com/RPA-TJ-Lille/STATOBAJ/releases/tag/v1.0.0-beta.1)
-- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/STATOBAJ/releases/download/v1.0.0-beta.1/RPA-STATOBAJ-v1.0.0-beta.1.zip)
+- 🔄 [Dernière version : v1.0.0](https://github.com/RPA-TJ-Lille/STATOBAJ/releases/tag/v1.0.0)
+- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/STATOBAJ/releases/download/v1.0.0/RPA-STATOBAJ-v1.0.0.zip)
 
 ---
 
