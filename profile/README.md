@@ -76,14 +76,14 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Langage](https://img.shields.io/badge/langage-python-blue)
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-IMPRIM'FIP-lightgrey)
-![Version](https://img.shields.io/badge/version-v1.2.0-blueviolet)
+![Version](https://img.shields.io/badge/version-v1.3.0-blueviolet)
 ![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
 
 **Objectif :** Automatiser le dépôt de courriers sur la plateforme IMPRIM'FIP.
 
 - 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/IMPRIMFIP)
-- 🔄 [Dernière version : v1.2.0](https://github.com/RPA-TJ-Lille/IMPRIMFIP/releases/tag/v1.2.0)
-- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/IMPRIMFIP/releases/download/v1.2.0/RPA-IMPRIMFIP-v1.2.0.zip)
+- 🔄 [Dernière version : v1.3.0](https://github.com/RPA-TJ-Lille/IMPRIMFIP/releases/tag/v1.3.0)
+- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/IMPRIMFIP/releases/download/v1.3.0/RPA-IMPRIMFIP-v1.3.0.zip)
 
 ---
 
