@@ -15,6 +15,22 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 
 ## 🚀 Projets disponibles
 
+### 🖨️ NUMERIBAJ
+
+![Langage](https://img.shields.io/badge/langage-python-blue)
+![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
+![Plateforme](https://img.shields.io/badge/plateforme-SIAJ-lightgrey)
+![Version](https://img.shields.io/badge/version-v1.0.0-blueviolet)
+![Créateur](https://img.shields.io/badge/créateur-HugoGhesquier-blue)
+
+**Objectif :** Automatiser le traitement des dossiers numérisés du BAJ.
+
+- 🔗 [Accéder au dépôt GitHub](https://github.com/RPA-TJ-Lille/NUMERIBAJ)
+- 🔄 [Dernière version : v1.0.0](https://github.com/RPA-TJ-Lille/NUMERIBAJ/releases/tag/v1.0.0)
+- 📥 [Télécharger l’application](https://github.com/RPA-TJ-Lille/NUMERIBAJ/releases/download/v1.0.0/RPA-NUMERIBAJ-v1.0.0.zip)
+
+---
+
 ### 💻 ACSS
 
 ![Langage](https://img.shields.io/badge/langage-python-blue)
@@ -37,7 +53,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-SIAJ-lightgrey)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blueviolet)
-![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
+![Créateur](https://img.shields.io/badge/créateur-HugoGhesquier-blue)
 
 **Objectif :** Automatiser le suivi des dossiers déposés sur SIAJ.
 
@@ -53,7 +69,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-SIAJ-lightgrey)
 ![Version](https://img.shields.io/badge/version-v1.1.3-blueviolet)
-![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
+![Créateur](https://img.shields.io/badge/créateur-HugoGhesquier-blue)
 
 **Objectif :** Automatiser le remplissage des formulaires sur le portail SIAJ.
 
@@ -77,7 +93,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-IMPRIM'FIP-lightgrey)
 ![Version](https://img.shields.io/badge/version-v1.3.0-blueviolet)
-![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
+![Créateur](https://img.shields.io/badge/créateur-HugoGhesquier-blue)
 
 **Objectif :** Automatiser le dépôt de courriers sur la plateforme IMPRIM'FIP.
 
@@ -93,7 +109,7 @@ Bienvenue sur l’espace GitHub du **Tribunal Judiciaire de Lille**, dédié au 
 ![Statut](https://img.shields.io/badge/statut-stable-brightgreen)
 ![Plateforme](https://img.shields.io/badge/plateforme-OUTLOOK-lightgrey)
 ![Version](https://img.shields.io/badge/version-v1.1.1-blueviolet)
-![Créateur](https://img.shields.io/badge/créateur-Zenta-blue)
+![Créateur](https://img.shields.io/badge/créateur-HugoGhesquier-blue)
 
 **Objectif :** Automatiser le traitement et l’envoi des décisions d’aide juridictionnelle aux avocats via Outlook.
 
